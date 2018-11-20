@@ -1,0 +1,5 @@
+Sokrates og sofistene
+
+1;Hvem var sofistene?;En gruppe tenkere som levde på Sokrates' tid som tok seg betalt for å lære bort sine ferdigheter innen argumentasjon og diskusjon
+2;Hva skilles sokrates' og sofistenes forhold til visdom?;Sokrates hadde en kjærlighet til visdom og mente at tenking hadde verdi i seg selv. Sofistene brukte visdom som et verktøy for å oppnå innflytelse
+3;Hvordan brukte sokrates dialog?;Sokrates oppsøkte folk der de befant seg og snakket med dem for å få samtalepartnerne hans til å formulere sine synspunkt på best mulig måte

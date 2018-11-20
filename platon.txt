@@ -1,0 +1,4 @@
+Platon
+
+1;Hva var Platon sitt forhold til Sokrates?;Platon var Sokrates' elev, Sokrates' talerør (alle Sokrates' nedskrevne verker kommer fra Platon) og fortsatte på mange av Sokrates' ideer
+2;Hva går Platons idélære ut på og hva er poenget med den?;Idélæren er en teoretisk underbygging av Sokrates' søken etter definisjoner av ulike begreper (rettferdighet, mot, det gode etc.). Poenget med den er å få innsikt i hva forskjellige begreper egentlig er.
