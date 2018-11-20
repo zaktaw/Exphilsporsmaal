@@ -18,14 +18,12 @@ plat = make_db("platon.txt", "platon")
 liste = [sokr,plat]
 
 def questions(filosof):
-    print(filosof)
     db = filosof.copy()
     user_input = -1
     choices = []
     for num in range(1,len(db)+1):
         choices.append(num)
     while user_input != 0 and db:
-        print(choices)
         choice = random.choice(choices)
         print(db[choice][0])
         input("Dit svar: ")
